@@ -1,0 +1,23 @@
+{
+  "jupyter-lite-schema-version": 0,
+  "jupyter-config-data": {
+    "appName": "JupyterLite on Vercel with Terminal",
+    "appVersion": "1.0.0",
+    "terminalsAvailable": true,
+    "disabled_extensions": [],
+    "settingsStorageDrivers": ["browser"]
+  },
+  "kernelspecs": {
+    "pyodide": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python",
+      "argv": [],
+      "spec": {
+        "display_name": "Python (Pyodide)",
+        "language": "python",
+        "name": "python"
+      }
+    }
+  }
+}
